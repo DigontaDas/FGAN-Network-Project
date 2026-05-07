@@ -14,6 +14,10 @@ next-generation autonomous aircraft fleet.
 - Aircraft Simulation Lab (1200 devices)
 - Maintenance Hangar (600 devices)
 - Emergency Control Node (80 devices)
+  
+## Network Topology
+
+![Labeled Topology Diagram](Labeled%20Topology%20Diagram.png)
 
 ## Key Features
 - Floating static route with AD=88 for redundancy
